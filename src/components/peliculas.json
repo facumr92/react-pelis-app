@@ -1,0 +1,60 @@
+[
+    {
+      "titulo": "Taxi Driver",
+      "sinopsis": "La trama sigue a Travis Bickle, un exmarine solitario e insomne que se convierte en taxista nocturno en la peligrosa Nueva York de los años 70.",
+      "director": "Martin Scorsese",
+      "año": "1976",
+      "foto": "/src/components/img/Publicity-still-Robert-De-Niro-DeNiro-Taxi-Driver-Martin-Scorsese.webp"
+    },
+    {
+      "titulo": "Seven",
+      "sinopsis": "La trama sigue a dos detectives, Somerset y Mills, mientras investigan una serie de asesinatos inspirados en los siete pecados capitales.",
+      "director": "David Fincher",
+      "año": "1995",
+      "foto": "/src/components/img/p17198_v_h9_az.jpg"
+    },
+    {
+      "titulo": "Scarface",
+      "sinopsis": "La película sigue la ascensión y caída de Tony Montana, un inmigrante cubano que llega a Miami con el sueño americano en mente, pero se ve envuelto en el mundo del crimen organizado.",
+      "director": "Brian De Palma",
+      "año": "1983",
+      "foto": "/src/components/img/Scarface_45123-e759YH.tmp_.jpg"
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "sinopsis": "La trama sigue las vidas entrelazadas de varios personajes en Los Ángeles, incluidos dos asesinos a sueldo, un boxeador, un gánster y la esposa de un gánster.",
+        "director": "Quentin Tarantino",
+        "año": "1994",
+        "foto": "/src/components/img/pulpfiction.jpg"
+      },
+      {
+        "titulo": "Forrest Gump",
+        "sinopsis": "La película narra la vida de Forrest Gump, un hombre con un coeficiente intelectual por debajo del promedio, quien participa en varios eventos importantes de la historia de Estados Unidos.",
+        "director": "Robert Zemeckis",
+        "año": "1994",
+        "foto": "/src/components/img/forrestgump.jpeg"
+      },
+
+      {
+        "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+        "sinopsis": "La trama sigue a Frodo Bolsón mientras emprende un viaje para destruir un poderoso anillo que podría caer en manos del malvado Señor Oscuro, Sauron.",
+        "director": "Peter Jackson",
+        "año": "2001",
+        "foto": "/src/components/img/elseñordelosanillos.jpg"
+      },
+      {
+        "titulo": "Matrix",
+        "sinopsis": "La película sigue a Neo, un hacker que descubre que el mundo en el que vive es una simulación de realidad virtual creada por máquinas inteligentes.",
+        "director": "The Wachowskis",
+        "año": "1999",
+        "foto": "/src/components/img/matrix.jpeg"
+      },
+      {
+        "titulo": "Interestelar",
+        "sinopsis": "La trama sigue a un grupo de exploradores que viajan a través de un agujero de gusano en busca de un nuevo hogar para la humanidad, debido a la inminente destrucción de la Tierra.",
+        "director": "Christopher Nolan",
+        "año": "2014",
+        "foto": "/src/components/img/interestellar.jpg"
+      }
+  ]
+  
